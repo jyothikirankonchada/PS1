@@ -39,7 +39,7 @@ This is a fully functional eCommerce website with a beautiful user interface and
 ## To Run This Project
 1. clone this project on your local machine,
 ```
-git clone https://github.com/ruhulaminparvez/eCommerce.git
+git clone (https://github.com/jyothikirankonchada/PS1)
 ```
 2. create a virtual environment inside eCommerce folder,
 ```
